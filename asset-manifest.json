@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weatherinfo/static/css/main.17cb7111.css",
-    "main.js": "/weatherinfo/static/js/main.2abd956c.js",
+    "main.js": "/weatherinfo/static/js/main.b3ac5d10.js",
     "static/media/haze.jpg": "/weatherinfo/static/media/haze.1366ddb07802d4281666.jpg",
     "static/media/cloudy.jpg": "/weatherinfo/static/media/cloudy.560e38e799908a8a535a.jpg",
     "index.html": "/weatherinfo/index.html",
     "main.17cb7111.css.map": "/weatherinfo/static/css/main.17cb7111.css.map",
-    "main.2abd956c.js.map": "/weatherinfo/static/js/main.2abd956c.js.map"
+    "main.b3ac5d10.js.map": "/weatherinfo/static/js/main.b3ac5d10.js.map"
   },
   "entrypoints": [
     "static/css/main.17cb7111.css",
-    "static/js/main.2abd956c.js"
+    "static/js/main.b3ac5d10.js"
   ]
 }
