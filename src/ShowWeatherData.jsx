@@ -86,7 +86,7 @@ useEffect(()=>{
     return <>
       <section className={`w-full lg:h-[90vh]  ${icon==='50n' ?"moreInfoImg":"bgImg"}`}>
 
-        <input type="search" placeholder=" Search.." id="searchingPoint" className="h-14 mt-10 ml-6 sm:ml-32 sm:w-[70vw] lg:w-[30vw] rounded-[32px] px-5 font-semibold text-2xl bg-transparent border-b-2 border-black shadow-2xl"/>
+        <input type="search" placeholder=" Search.." id="searchingPoint" className="h-14 mt-10 ml-6 sm:ml-32 w-[70vw] sm:w-[70vw] lg:w-[30vw] rounded-[32px] px-5 font-semibold text-2xl bg-transparent border-b-2 border-black shadow-2xl"/>
         {/* <button id="btn">Ding</button> */}
 
 
