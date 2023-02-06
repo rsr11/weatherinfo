@@ -33,7 +33,7 @@ useEffect(()=>{
 })
     const fetchApi = async()=>{
         try{
-        const Api=`http://api.openweathermap.org/data/2.5/weather?q=${place}&units=metric&appid=6eaa63e18c0eeb019928ffe4dcd7ea3c`;
+        const Api=`https://api.openweathermap.org/data/2.5/weather?q=${place}&units=metric&appid=6eaa63e18c0eeb019928ffe4dcd7ea3c`;
         const response = await fetch(Api);
         // console.log(response);
         const data = await response.json();
